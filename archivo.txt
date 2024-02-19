@@ -1,0 +1,3 @@
+Este es
+Un archivo 
+de tipo texto
